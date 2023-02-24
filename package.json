@@ -1,0 +1,11 @@
+{
+  "name": "feathers-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/feathers": "^5.0.0-pre.38",
+    "@feathersjs/koa": "^5.0.0",
+    "@feathersjs/socketio": "^5.0.0"
+  }
+}
